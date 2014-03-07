@@ -40,7 +40,7 @@
       ],
       ADDITIONAL_CSS_RULES = [
         "html                 { height: 100%; }",
-        "body                 { height: 100%; padding: 1px 0 0 0; margin: -1px 0 0 0; }",
+        "body                 { padding: 1px 0 0 0; margin: -1px 0 0 0; }",
         "body > p:first-child { margin-top: 0; }",
         "._wysihtml5-temp     { display: none; }",
         wysihtml5.browser.isGecko ?
